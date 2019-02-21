@@ -2,7 +2,7 @@
     "name": "christohill/waiverforever-api-php",
     "description": "A PHP wrapper for the Waiver Forever API",
     "type": "library",
-    "homepage": "https://github.com/christohill/cfl-api-php",
+    "homepage": "https://github.com/christohill/waiverforever-api-php",
     "keywords": ["php", "wrapper", "api", "client", "waiverforever", "waiver", "forever"],
     "minimum-stability": "dev",
     "license": "MIT",
