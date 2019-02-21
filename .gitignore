@@ -1,0 +1,4 @@
+/.docker/
+/vendor/
+*.sublime*
+docker-compose.yml
