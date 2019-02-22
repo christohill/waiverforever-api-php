@@ -1,5 +1,5 @@
 # Waiver Forever API wrapper for PHP
-========
+
 This is a simple PHP SDK for interacting with the Waiver Forever API. All API documentation can be found at https://docs.waiverforever.com
 
 Installation
