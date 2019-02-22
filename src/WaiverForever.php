@@ -168,6 +168,12 @@ class WaiverForever {
 
 
 
+	/**
+	 * Query signed waiver by tracking id
+	 * @param String $trackingID tracking id from request waiver
+	 *
+	 * @link https://docs.waiverforever.com/#get-tracking-waiver
+	 */
 	public function TrackingWaiver($trackingID) {
 		return $this->performRequest('get', "waiver/tracking/{$trackingID}");
 	}
